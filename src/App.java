@@ -18,8 +18,20 @@ public class App {
     /**
      * Document what this method does here!
      */
-    public void printInstructions() {
-       
+    public String getUserName () {
+        return "David";
+    }
+
+    public void printGreeting (String username) {
+        System.out.println("Hello "+ username + " Welcome to Madlibs");
+    }
+
+     public void printInstructions() {
+       System.out.println("Answer these questions to get a funny story!!");
+    
+    }
+    public void doMadlib() {
+
     }
     
     // add and implement the other methods you need in this area below!
