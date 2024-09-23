@@ -19,7 +19,11 @@ public class App {
      * Document what this method does here!
      */
     public String getUserName () {
-        return "David";
+        System.out.println("Hii, enter your name.");
+        Scanner input = new Scanner(System.in);
+        String name = input.nextLine();
+        return name; 
+      
     }
 
     public void printGreeting (String username) {
