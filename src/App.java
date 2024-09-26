@@ -88,7 +88,7 @@ public class App {
         System.out.println ("Adjective:");
         String adjectiveFour = input.nextLine();
 
-        System.out.println("Once, there was a group of " + numberOne + " teens, they were so " + adjectiveOne + ". One of them was named " + boyNameOne + ", he liked to eat " + foodOne + ". One " + adjectiveTwo + " morning, the " + numberOne + " teens decided to go explore a haunted " + nounOne + ". But, there night was cut short when they were attacked by a/an" + adjectiveThree + " deadbeb " + animalOne + ". They " + pastTenseVerbOne + " and got away from the ghost. " + boyNameOne + " then went to his " + adjectiveFour + " house and enjoyed a plate of " + foodOne + ".");
+        System.out.println("Once, there was a group of " + numberOne + " teens, and they were so " + adjectiveOne + ". One of them was named " + boyNameOne + ", he liked to eat " + foodOne + ". One " + adjectiveTwo + " morning, the " + numberOne + " teens decided to go explore a haunted " + nounOne + ". But, there night was cut short when they were attacked by a/an" + adjectiveThree + " deadbeb " + animalOne + ". They " + pastTenseVerbOne + " and got away from the ghost. " + boyNameOne + " then went to his " + adjectiveFour + " house and enjoyed a plate of " + foodOne + ".");
 
     }
 
