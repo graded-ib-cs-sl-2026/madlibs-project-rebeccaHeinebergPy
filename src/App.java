@@ -207,12 +207,12 @@ public class App {
                     + ", I pushed her off but tripped on a " + objectOne + ". She " + verbOne + " and let out a "
                     + adjectiveTwo + " laugh. She got a " + colorOne + " wand out of her pocket and said '"
                     + gibberishOne + "'. Suddenly I was transformed into a " + adjectiveThree + " " + nounOne
-                    + ", then she got a " + objectTwo + " out of her bag and took a bite out of it. I was so"
+                    + ", then she got a " + objectTwo + " out of her bag and took a bite out of it. I was so "
                     + emotionOne + ".");
 
         } else {
             System.out.println("You didn't choose a value between 1 - 3, so you can't play >:))");
-            // I need to do this because the code needs to know what to do inc case a value
+            // I need to do this because the code needs to know what to do incase a value
             // between 1-3 isnt chosen
 
         }
